@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(cornflowerblue, rgb(175, 195, 233));
+    text-align: center;
+}
+
+div{
+    width: 100%;
+}
+
+canvas{
+    background-color: aliceblue;
+    border: 5px black;
+    box-shadow: 5px, 5px, 5px, grey;
+}
+
+#footer{
+    position: fixed;
+    bottom: 0;
+    background-color: chartreuse;
+    width: 100%;
+}
